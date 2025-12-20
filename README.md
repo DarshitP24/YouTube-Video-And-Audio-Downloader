@@ -30,9 +30,3 @@ This project focuses on performance, user experience, and practical backend inte
 ---
 
 ## 📂 Project Structure
-
-├── app.py.
-├── requirements.txt
-├── render.yaml
-└── templates/
-└── index.html
