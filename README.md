@@ -28,5 +28,3 @@ This project focuses on performance, user experience, and practical backend inte
 - **Deployment:** Render (Gunicorn)
 
 ---
-
-## 📂 Project Structure
